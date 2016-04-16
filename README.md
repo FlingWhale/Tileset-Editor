@@ -22,4 +22,6 @@ Written with python 2.7 and pygame 1.9
   A red box means the tile is collidable <br />
   You can click on the collision boxes to show change their type.
   
-  
+  This image shows collidable areas outlined in red, The available tiles on the right and your currently selected tiles left and right click respectively. Below that is their collision type and below that is various data.
+  ![alt text](ScreenShots/img1.png)
+  ![alt text](ScreenShots/img2.png)
